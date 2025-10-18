@@ -1,7 +1,5 @@
 <!-- Slide number: 1 -->
 # 基礎実習　Ⅱ Universal Design  
-工芸工業デザイン学科　１年  
-相澤　千裕  
 
 <!-- Slide number: 2 -->
 ## リサーチ１　通常の使い方  
